@@ -18,7 +18,7 @@
 컴퓨터 공부는 2020년 2월에 시작하여
 제가 키보드를 칠수없는 순간까지 계속됩니다!🤩🤩
 
-정확한 프론트엔드의 시작은 10월부터이며, 그전은 퍼블리싱과 spring밖에 몰라 그것만 공부를 하였고, 이후 node의 존재를 알게되어 시작하게되었습니다.
+정확한 프론트엔드의 시작은 10월부터이며, 그전은 퍼블리싱과 spring 공부를 하였지만, 이후 node의 존재를 알게되어 시작하게되었습니다.
 
 I started studying this way in February 2020   
 The moment I put down my keyboard will be When I cant use my hands Only.
