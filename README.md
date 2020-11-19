@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Guys 😎
 ### 안녕하세요 박수현입니다.
 ### [Blog](https://blog.naver.com/on10041004)
 ### [자기 소개서](https://suhyeonp.github.io/)
