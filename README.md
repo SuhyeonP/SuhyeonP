@@ -15,7 +15,7 @@
 
 *****
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SuhyeonP)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/wakatime?username=SuhyeonP)
 
 *****
 
