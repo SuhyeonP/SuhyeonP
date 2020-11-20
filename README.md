@@ -5,6 +5,15 @@
 
 *****
 
+현재 진행중 :    
+[GraphQL-Front](https://github.com/SuhyeonP/samdeok-front)    
+[GraphQL-Back](https://github.com/SuhyeonP/Samdeok-Back)    
+
+현재 graphql로 react, cra, typescript,apollo,nodejs,mongoDB로 개발중에 있는 프로젝트입니다.    
+진행중인상황이라 부족합니다. 같이하실분들도 대환영:)   
+
+*****
+
 1. [CAF캎E](http://ahah12k.cafe24.com/jin/)
 2. [롤 캐릭터 찾기](http://ahah12k.cafe24.com/ptp1)
 3. [귀멸의 칼날(모바일 전용)](http://ahah12k.cafe24.com/ptp2/)
