@@ -7,7 +7,7 @@
 
 현재 진행중 :    
 [GraphQL-Front](https://github.com/SuhyeonP/samdeok-front)    
-[GraphQL-Back](https://github.com/SuhyeonP/Samdeok-Back)    
+[GraphQL-Back](https://github.com/SuhyeonP/Samdeok-Back/tree/all-modify)    
 
 현재 graphql로 react, cra, typescript,apollo,nodejs,mongoDB로 개발중에 있는 프로젝트입니다.    
 진행중인상황이라 부족합니다. 같이하실분들도 대환영:)   
