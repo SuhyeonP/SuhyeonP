@@ -5,12 +5,10 @@
 
 *****
 
-현재 진행중 :    
-[GraphQL-Front](https://github.com/SuhyeonP/samdeok-front)    
-[GraphQL-Back](https://github.com/SuhyeonP/Samdeok-Back/tree/all-modify)    
+현재 진행중 :    스터디모집가능한 커뮤니티
 
-현재 graphql로 react, cra, typescript,apollo,nodejs,mongoDB로 개발중에 있는 프로젝트입니다.    
-진행중인상황이라 부족합니다. 같이하실분들도 대환영:)   
+
+
 
 *****
 
@@ -35,6 +33,10 @@ The moment I put down my keyboard will be When I cant use my hands Only.
 I want to be Steady Developer
 
 *****
+[GraphQL-Front](https://github.com/SuhyeonP/samdeok-front)    
+[GraphQL-Back](https://github.com/SuhyeonP/Samdeok-Back/tree/all-modify)    
+graphql보다 redux가 좋을거같아 중지하였습니다.
+
 
 
 ### My  skill (이하 생략)
