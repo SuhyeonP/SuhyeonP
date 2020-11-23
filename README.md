@@ -52,7 +52,7 @@ graphql보다 redux가 좋을거같아 중지하였습니다.
 <img src="https://seonhyeokjun.github.io/images/spring.png" width="40px" height="40px"></img>
 *****
 
-[![HitCount](http://hits.dwyl.com/SuhyeonP/https://githubcom/SuhyeonPtab=repositories.svg)](http://hits.dwyl.com/SuhyeonP/https://githubcom/SuhyeonPtab=repositories)
+[![HitCount](http://hits.dwyl.com/SuhyeonP/https://githubcom/SuhyeonP/SuhyeonP.svg)](http://hits.dwyl.com/SuhyeonP/https://githubcom/SuhyeonP/SuhyeonP)
 
 *****
 
