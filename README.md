@@ -9,7 +9,7 @@
   백엔드와 프론트엔드 풀스택으로 작업중에있는 프로젝트입니다. :)     
   next, redux, react, typescript,emotion가  주요 사용입니다.
 
-
+  ++협업 진행중 [트렐로 오마쥬](https://github.com/SuhyeonP/Trello)
 
 
 *****
