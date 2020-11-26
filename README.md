@@ -5,7 +5,7 @@
 
 *****
 
-  현재 진행중 :    [짝퉁 배달의민족](https://github.com/SuhyeonP/baedal)
+  현재 진행중 :    [짝퉁 배달의민족](https://github.com/SuhyeonP/Serverside-Type-Next)
   백엔드와 프론트엔드 풀스택으로 작업중에있는 프로젝트입니다. :)     
   next, redux, react, typescript,emotion가  주요 사용입니다.
 
