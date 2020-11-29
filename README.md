@@ -5,9 +5,7 @@
 
 *****
 
-  현재 진행중 :    [짝퉁 배달의민족](https://github.com/SuhyeonP/Serverside-Type-Next)
-  백엔드와 프론트엔드 풀스택으로 작업중에있는 프로젝트입니다. :)     
-  next, redux, react, typescript,emotion가  주요 사용입니다.
+ 
 
   ++협업 진행중 [트렐로 오마쥬](https://github.com/SuhyeonP/Trello)
 
@@ -22,7 +20,9 @@
 6. [Treat Data](http://data.honeyhyoni.shop/)
 7. [Connecting sub](https://typescript-next-brown.vercel.app/)
 
-
+진행중단 (타입스크립트와 서버사이드렌더링 충돌 이유 공부중) :    [짝퉁 배달의민족](https://github.com/SuhyeonP/Serverside-Type-Next)
+  백엔드와 프론트엔드 풀스택으로 작업중에있는 프로젝트입니다. :)     
+  next, redux, react, typescript,emotion가  주요 사용입니다.
 
 컴퓨터 공부는 2020년 2월에 시작하여
 제가 키보드를 칠수없는 순간까지 계속됩니다!🤩🤩
