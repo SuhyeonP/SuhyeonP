@@ -55,7 +55,7 @@ graphql보다 redux가 좋을거같아 중지하였습니다.
 &nbsp;
 <img src="https://seonhyeokjun.github.io/images/spring.png" width="40px" height="40px"></img>
 <img src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2020/02/introducing-create-next-app.jpeg?fit=730%2C486&ssl=1" width="40px" height="40px"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40px" height="40px"/>
+<img src="https://camo.githubusercontent.com/e130051fab0a0c6ca301b708534c9e25bb91426f9a8c1117e24f06dc961b450e/68747470733a2f2f6c616b75653131392e6769746875622e696f2f696d672f736b696c6c732f6d7973716c2e706e67" width="40px" height="40px"/>
 *****
 
 [![HitCount](http://hits.dwyl.com/SuhyeonP/https://githubcom/SuhyeonP/SuhyeonP.svg)](http://hits.dwyl.com/SuhyeonP/https://githubcom/SuhyeonP/SuhyeonP)
