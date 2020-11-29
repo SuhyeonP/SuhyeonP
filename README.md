@@ -50,10 +50,12 @@ graphql보다 redux가 좋을거같아 중지하였습니다.
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="40px" height="40px"></img>
 &nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" width="40px" height="40px"/>
 <img src="https://camo.githubusercontent.com/d56c0afde95d98e734851d4bde65162ab84f934271c2f10c862ebca90f9017f0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3235372f312a67477a526d554b4e4f435f58376b6c466a546b3845412e706e67" width="40px" height="40px"></img>
 &nbsp;
 <img src="https://seonhyeokjun.github.io/images/spring.png" width="40px" height="40px"></img>
 <img src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2020/02/introducing-create-next-app.jpeg?fit=730%2C486&ssl=1" width="40px" height="40px"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40px" height="40px"/>
 *****
 
 [![HitCount](http://hits.dwyl.com/SuhyeonP/https://githubcom/SuhyeonP/SuhyeonP.svg)](http://hits.dwyl.com/SuhyeonP/https://githubcom/SuhyeonP/SuhyeonP)
