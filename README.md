@@ -19,7 +19,8 @@
 4. [Seventeen(Front)](http://honeyhyoni.shop/)
 5. [Seventeen(Back)](http://api.honeyhyoni.shop/)
 6. [Treat Data](http://data.honeyhyoni.shop/)
-7. [Connecting sub](https://typescript-next-brown.vercel.app/)
+7. [Connecting sub](https://github.com/SuhyeonP/typescriptNext)
+   : 현재 vercel을 이용해 배포하였지만, 유료화 되어 현재 진행중인 프로젝트에서 좀더 업그레이드하여 선보일 예정입니다.
 
 컴퓨터 공부는 2020년 2월에 시작하여
 제가 키보드를 칠수없는 순간까지 계속됩니다!🤩🤩
@@ -49,7 +50,7 @@ graphql보다 redux가 좋을거같아 중지하였습니다.
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="40px" height="40px"></img>
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="40px" height="40px"></img>
+<img src="https://camo.githubusercontent.com/d56c0afde95d98e734851d4bde65162ab84f934271c2f10c862ebca90f9017f0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3235372f312a67477a526d554b4e4f435f58376b6c466a546b3845412e706e67" width="40px" height="40px"></img>
 &nbsp;
 <img src="https://seonhyeokjun.github.io/images/spring.png" width="40px" height="40px"></img>
 *****
