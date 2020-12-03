@@ -23,8 +23,8 @@
 
 
 -. [Connecting sub](https://github.com/SuhyeonP/typescriptNext)        
--. [Seventeen(Front)](http://honeyhyoni.shop/)      
--. [Seventeen(Back)](http://api.honeyhyoni.shop/)       
+-. [Seventeen(Front)](http://suhyeon.shop)      =>돈이없어...배포 중단하였습니다...😅
+-. [Seventeen(Back)](http://suhyeon.shop)       
 현재 3개의 사이트는 [여기서](http://suhyeon.shop) 재 단장한것을 확인할수있습니다.
 
 
