@@ -22,10 +22,10 @@
 
 
 
--. [Connecting sub](https://github.com/SuhyeonP/typescriptNext)
-   : 현재 vercel을 이용해 배포하였지만, 유료화 되어 현재 진행중인 프로젝트에서 좀더 업그레이드하여 선보일 예정입니다.
--. [Seventeen(Front)](http://honeyhyoni.shop/)
--. [Seventeen(Back)](http://api.honeyhyoni.shop/)
+-. [Connecting sub](https://github.com/SuhyeonP/typescriptNext)     
+   : 현재 vercel을 이용해 배포하였지만, 유료화 되어 현재 진행중인 프로젝트에서 좀더 업그레이드하여 선보일 예정입니다.      
+-. [Seventeen(Front)](http://honeyhyoni.shop/)      
+-. [Seventeen(Back)](http://api.honeyhyoni.shop/)       
 현재 3개의 사이트는 [여기서](http://suhyeon.shop) 재 단장한것을 확인할수있습니다.
 
 
