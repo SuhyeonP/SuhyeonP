@@ -17,11 +17,18 @@
 1. [CAF캎E](http://ahah12k.cafe24.com/jin/)
 2. [롤 캐릭터 찾기](http://ahah12k.cafe24.com/ptp1)
 3. [귀멸의 칼날(모바일 전용)](http://ahah12k.cafe24.com/ptp2/)
-4. [Seventeen(Front)](http://honeyhyoni.shop/)
-5. [Seventeen(Back)](http://api.honeyhyoni.shop/)
-6. [Treat Data](http://data.honeyhyoni.shop/)
-7. [Connecting sub](https://github.com/SuhyeonP/typescriptNext)
+
+4. [Treat Data](http://data.honeyhyoni.shop/)
+
+
+
+-. [Connecting sub](https://github.com/SuhyeonP/typescriptNext)
    : 현재 vercel을 이용해 배포하였지만, 유료화 되어 현재 진행중인 프로젝트에서 좀더 업그레이드하여 선보일 예정입니다.
+-. [Seventeen(Front)](http://honeyhyoni.shop/)
+-. [Seventeen(Back)](http://api.honeyhyoni.shop/)
+현재 3개의 사이트는 [여기서](http://suhyeon.shop) 재 단장한것을 확인할수있습니다.
+
+
 
 컴퓨터 공부는 2020년 2월에 시작하여
 제가 키보드를 칠수없는 순간까지 계속됩니다!🤩🤩
