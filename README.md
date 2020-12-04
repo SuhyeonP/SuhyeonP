@@ -46,7 +46,8 @@ I want to be Steady Developer
 *****
 [GraphQL-Front](https://github.com/SuhyeonP/samdeok-front)    
 [GraphQL-Back](https://github.com/SuhyeonP/Samdeok-Back/tree/all-modify)    
-graphql보다 redux가 좋을거같아 중지하였습니다.
+graphql보다 현재 진행하기에는  redux가 좋을거같아 중지하였습니다.
+겨울방학 취직하지 못했다면 graphql 다시 달릴 예정
 
 
 
