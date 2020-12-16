@@ -68,7 +68,7 @@ graphql보다 현재 진행하기에는  redux가 좋을거같아 중지하였�
 <img src="https://camo.githubusercontent.com/e130051fab0a0c6ca301b708534c9e25bb91426f9a8c1117e24f06dc961b450e/68747470733a2f2f6c616b75653131392e6769746875622e696f2f696d672f736b696c6c732f6d7973716c2e706e67" width="40px" height="40px"/>
 *****
 
-[![HitCount](http://hits.dwyl.com/suhyeonP/trello.svg)](http://hits.dwyl.com/suhyeonP/trello)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhyeonP&count_bg=%238E60F9&title_bg=%235E86FF&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
 
 *****
 
