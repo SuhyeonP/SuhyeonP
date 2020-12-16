@@ -69,6 +69,6 @@ graphql보다 현재 진행하기에는  redux가 좋을거같아 중지하였�
 *****
 
 [![HitCount](http://hits.dwyl.com/suhyeonP/trello.svg)](http://hits.dwyl.com/suhyeonP/trello)
-[![HitCount](http://hits.dwyl.com/suhyeonP/trello.svg)](http://hits.dwyl.com/suhyeonP/AllRemake)
+
 *****
 
