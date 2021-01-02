@@ -9,8 +9,6 @@
 [여태만든 포트폴리오 종합 React remake ](https://github.com/SuhyeonP/AllRemake.zip)
 [배포주소](http://suhyeon.shop)
 
-  ++협업 진행중 [트렐로 오마쥬](https://github.com/SuhyeonP/Trello)   ([배포사이트](http://honeyhyoni.shop:3060))
-
 
 *****
 
@@ -50,6 +48,8 @@ graphql보다 현재 진행하기에는  redux가 좋을거같아 중지하였�
 겨울방학 취직하지 못했다면 graphql 다시 달릴 예정
 
 
+
+협업 중단 [트렐로 오마쥬](https://github.com/SuhyeonP/Trello)   ([배포사이트](http://honeyhyoni.shop:3060))
 
 ### My  skill (이하 생략)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40px" height="40px"></img>
