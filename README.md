@@ -8,23 +8,9 @@
  
 [여태만든 포트폴리오 종합 React remake ](https://github.com/SuhyeonP/AllRemake.zip)
 [배포주소](http://suhyeon.shop)
-
+온 세상이 초록색이 될때까지 잔디밭 채우는것이 목표!
 
 *****
-
-1. [CAF캎E](http://ahah12k.cafe24.com/jin/)
-2. [롤 캐릭터 찾기](http://ahah12k.cafe24.com/ptp1)
-3. [귀멸의 칼날(모바일 전용)](http://ahah12k.cafe24.com/ptp2/)
-
-4. [ALL Remake](http://suhyeon.shop)
-
-
-
--. [Connecting sub](https://github.com/SuhyeonP/typescriptNext)        
--. [Seventeen(Front)](http://suhyeon.shop)      =>돈이없어...배포 중단하였습니다...😅
--. [Seventeen(Back)](http://suhyeon.shop)       
-현재 3개의 사이트는 [여기서](http://suhyeon.shop) 재 단장한것을 확인할수있습니다.
-
 
 
 컴퓨터 공부는 2020년 2월에 시작하여
@@ -35,21 +21,7 @@
 I started studying this way in February 2020   
 The moment I put down my keyboard will be When I cant use my hands Only.
 
-진행중단 (타입스크립트와 서버사이드렌더링 빌드와 배포중 충돌, 이유 공부중) :    
-[짝퉁 배달의민족](https://github.com/SuhyeonP/Serverside-Type-Next)
-:빌드 하지 않는다면, 백 프론트 dev에서는 정상작동
-
 I want to be Steady Developer
-
-*****
-[GraphQL-Front](https://github.com/SuhyeonP/samdeok-front)    
-[GraphQL-Back](https://github.com/SuhyeonP/Samdeok-Back/tree/all-modify)    
-graphql보다 현재 진행하기에는  redux가 좋을거같아 중지하였습니다.
-겨울방학 취직하지 못했다면 graphql 다시 달릴 예정
-
-
-
-협업 중단 [트렐로 오마쥬](https://github.com/SuhyeonP/Trello)   ([배포사이트](http://honeyhyoni.shop:3060))
 
 ### My  skill (이하 생략)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40px" height="40px"></img>
