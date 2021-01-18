@@ -7,7 +7,6 @@
 
  
 [여태만든 포트폴리오 종합 React remake ](https://github.com/SuhyeonP/AllRemake.zip)
-[배포주소](http://suhyeon.shop)
 온 세상이 초록색이 될때까지 잔디밭 채우는것이 목표!
 
 *****
