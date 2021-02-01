@@ -1,25 +1,5 @@
-## Hey Guys 😎
-### 안녕하세요 박수현입니다.
-### [Blog](https://blog.naver.com/on10041004)
-### [자기 소개서](https://suhyeonp.github.io/)
-
-*****
-
+롸
  
-[여태만든 포트폴리오 종합 React remake ](https://github.com/SuhyeonP/AllRemake.zip)
-온 세상이 초록색이 될때까지 잔디밭 채우는것이 목표!
-
-*****
-
-
-컴퓨터 공부는 2020년 2월에 시작하여
-제가 키보드를 칠수없는 순간까지 계속됩니다!🤩🤩
-
-정확한 프론트엔드의 시작은 10월부터이며, 그전은 퍼블리싱과 spring 공부를 하였지만, 이후 node의 존재를 알게되어 시작하게되었습니다.
-
-I started studying this way in February 2020   
-The moment I put down my keyboard will be When I cant use my hands Only.
-
 I want to be Steady Developer
 
 ### My  skill (이하 생략)
