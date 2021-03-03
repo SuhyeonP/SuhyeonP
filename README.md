@@ -17,6 +17,8 @@ I want to be Steady Developer
 &nbsp;
 <img src="https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/Vue-logo-1.png" width="40px" height="40px"></img>
 <img src="https://seonhyeokjun.github.io/images/spring.png" width="40px" height="40px"></img>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-512.png" width="40px" height="40px"></img>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="40px" height="40px"></img>
 <img src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2020/02/introducing-create-next-app.jpeg?fit=730%2C486&ssl=1" width="40px" height="40px"></img>
 <img src="https://camo.githubusercontent.com/e130051fab0a0c6ca301b708534c9e25bb91426f9a8c1117e24f06dc961b450e/68747470733a2f2f6c616b75653131392e6769746875622e696f2f696d672f736b696c6c732f6d7973716c2e706e67" width="40px" height="40px"/>
 *****
