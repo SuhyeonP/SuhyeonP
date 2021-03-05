@@ -1,5 +1,5 @@
 [DM](https://www.instagram.com/honey_hyeoni/)
- :🧸
+ :🧸💙
  
 I want to be Steady Developer
 
