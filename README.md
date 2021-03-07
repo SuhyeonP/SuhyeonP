@@ -1,7 +1,7 @@
 [DM](https://www.instagram.com/honey_hyeoni/)
  :🧸💙
  
-I want to be Steady Developer
+I want to be __Steady__ Developer
 
 ### My  skill (이하 생략)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40px" height="40px"></img>
