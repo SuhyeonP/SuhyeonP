@@ -3,7 +3,7 @@
  
 I want to be __Steady__ Developer
 
-### My  skill (이하 생략)
+### My  skill (이하 생략) 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="40px" height="40px"></img>
 &nbsp;
 <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2652D04357C6D9AC29" width="40px" height="40px"></img>
