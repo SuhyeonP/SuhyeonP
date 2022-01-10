@@ -7,3 +7,4 @@
 <a href="https://honeyhyoni.github.io/honey" target="_blank"><img src="https://img.shields.io/badge/Github.io-black?style=flat-square&logo=GitHub"/></a>
 
 <a href="https://github.com/honeyhyoni" target="_blank"><img src="https://img.shields.io/badge/Sub-black?style=flat-square&logo=GitHub"/></a>
+[notion](https://www.notion.so/Park-Su-Hyeon-ff67044d89484a82bdae681cf089928c)
