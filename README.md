@@ -9,5 +9,5 @@
 <a href="https://github.com/honeyhyoni" target="_blank"><img src="https://img.shields.io/badge/Sub-black?style=flat-square&logo=GitHub"/></a>
     
 <br/>
-<a href="https://www.notion.so/b6b21d553b6242559a4240724ebb1560" target="_blank"><img src="https://img.shields.io/badge/Notion-gray?style=flat-square&logo=notion"/></a>
+<a href="https://www.notion.so/f5530f7d785346f4a3d2e282d6e733c4" target="_blank"><img src="https://img.shields.io/badge/Notion-gray?style=flat-square&logo=notion"/></a>
 
