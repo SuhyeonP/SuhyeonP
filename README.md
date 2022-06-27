@@ -10,4 +10,4 @@
 
 <a href="https://honey-hyoni-sub.notion.site/ParkSuhyeon-f5530f7d785346f4a3d2e282d6e733c4" target="_blank"><img src="https://img.shields.io/badge/Notion-gray?style=flat-square&logo=notion"/></a>
 <br/>
-<a href="https://opgc.me/#/users/suhyeonP" target="_blank"><img src="https://api.opgc.me/githubs/users/suhyeonP/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/suhyeonP" target="_blank" background="bl><img src="https://api.opgc.me/githubs/users/suhyeonP/tag/?theme=basic" /></a>
