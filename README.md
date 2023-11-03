@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=ffdc00&fontColor=fff&stroke=626262&strokeWidth=2&height=80&section=header&text=Su%20Hyeo%20Park&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=ffdc00&fontColor=fff&stroke=626262&strokeWidth=2&height=80&section=header&text=Su%20Hyeon%20Park&fontSize=50)
 > Frontend Developer: 2021.02 ~ ING
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyeonP&layout=compact&bg_color=#fffff3&locale=kr)](https://github.com/anuraghazra/github-readme-stats)    
